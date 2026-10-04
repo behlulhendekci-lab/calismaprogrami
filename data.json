@@ -1,0 +1,12 @@
+{
+  "meta": { "watched": 7 },
+  "items": [
+    { "id": "k8", "title": "8. Dijital Kampanya Yönetimi – Yasemin Ayna", "date": "2026-10-04", "type": "kurs", "done": false },
+    { "id": "k9", "title": "9. Google Reklamları (Google Ads) – Erdem Kaya", "date": "2026-10-07", "type": "kurs", "done": false },
+    { "id": "k10", "title": "10. Google Ads Workshop – Erdem Kaya", "date": "2026-10-09", "type": "kurs", "done": false },
+    { "id": "k11", "title": "11. Stratejik Pazarlama Yönetimi – Melis Erdoğan", "date": "2026-10-11", "type": "kurs", "done": false },
+    { "id": "k12", "title": "12. Kreatif Süreçler ve Ajans-Müşteri İlişkileri – Bengisu Gençay", "date": "2026-10-14", "type": "kurs", "done": false },
+    { "id": "k13", "title": "13. Uygulamalı SEO Teknikleri – Şerza Saka", "date": "2026-10-16", "type": "kurs", "done": false },
+    { "id": "k14", "title": "14. Growth Hacking ve Marketing – Asya Naz Konukseven", "date": "2026-10-18", "type": "kurs", "done": false }
+  ]
+}
